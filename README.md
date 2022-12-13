@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy_Everyday！！;HappyorEveryday!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy_Everyday！！;快乐每一天!!&center=true&size=27">
   </a>
 </h1>
 
