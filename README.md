@@ -41,4 +41,4 @@
 </div>
 <hr>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhulinyv" /> </div>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/A-kirami/A-kirami/master/waves.svg"><img src="https://raw.githubusercontent.com/A-kirami/A-kirami/master/waves.svg" alt="footer" style="max-width: 100%;"></a>
