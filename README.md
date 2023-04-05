@@ -36,4 +36,4 @@
 - ...
 
 ## 🎮 My **Genshin** Info
-<img align="left" width="350px" alt="Genshin" src="https://genshin-card.amarea.cn/9/271771727.png" />
+<img align="center" width="350px" alt="Genshin" src="https://genshin-card.amarea.cn/9/271771727.png" />
