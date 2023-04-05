@@ -7,6 +7,7 @@
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@zhulinyv?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhulinyv&layout=compact"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=zhulinyv"></img>
 </p>
 
 ## 🌟 I'm **(๑•小丫头片子•๑)**
