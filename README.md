@@ -13,7 +13,7 @@
 
 - 👨🏻‍🎓A Chinese Student
 - 🐠Touch fish~
-- 🐤Just a rookie
+- 🐤Just a Rookie
 - 🤖Developing a [NJS QQ Bot](https://github.com/zhulinyv/NJS)
 
 ## 📖 **Learning**
