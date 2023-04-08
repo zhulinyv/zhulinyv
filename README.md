@@ -34,7 +34,6 @@
 - Forza Horizon
 - Azure Lana
 - ...
-- ...
 
 ## 🎮 My **Genshin** Info
 <img align="center" width="350px" alt="Genshin" src="https://genshin-card.amarea.cn/9/271771727.png" />
