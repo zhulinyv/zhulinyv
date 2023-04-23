@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1253" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.39m added, 37.6k removed
+                                    1.06m added, 623 removed
                                 </div>
                             </section>
                             <section>
@@ -611,7 +611,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">zhulinyv/NJS</span>
+                            <span class="blue space">zhulinyv/LittlePaimon</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -619,7 +619,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 Apr 2023, 16:18:49
+                            On 21 Apr 2023, 14:19:53
                         </div>
                     </section>
                 </div>
@@ -629,14 +629,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            🐛 搬少了
+                            backup
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">7ffbdf04</span>
-                            <span class="code">LittlePaimon/plugins/Paimon_Chat/utils/json_data/roles_data.json</span>
+                            <span class="code">8eb224d9</span>
+                            <span class="code">LittlePaimon/utils/update.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -647,14 +647,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7028,7 +7028,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"story": [<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "维系者正在死去，创造者尚未到来。\n但世界不会再度灼烧，因为你将登上「神」之座。",<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "陌生的天空下，少年少女立于尘沙。\n你们是一对旅行中的双子，远渡重天，曾经跨越诸多世界。\n在降临名为「提瓦特」的大陆之前，你希望能与这个世界相处愉快。\n然而当你从陨星中复苏，却见到天变地异、灾祸横行——\n你们想要离开这里、前往下一个世界…\n但此时有陌生的神灵出现，拦在你们面前。\n一尘不染的神，漂浮在浊世的天空。\n俯视着你。\n神带走了你唯一的血亲，而你也被神封印，陷入充满噩梦的沉眠…\n再度醒来，天地间风景已变。\n眼前已不再有战火，也不再有任何熟悉的景象。\n自己究竟又沉睡了多少年？这也无从知晓。\n于是你孤身一人踏上旅途，去寻找曾经目睹的神灵…",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    "在那之后，你遇到旅伴派蒙，一起流浪了一段时间。\n你得知此世的神灵共有七位，以「尘世七执政」之名统治七国。\n你们将驻足的第一站定为诗与酒的自由城邦，蒙德，那是风神建立的国度。\n你作为异乡人踏足蒙德时，它正与其它国家一样，遭受着来自人类之外与人类内部的双重威胁。\n人类之外的威胁，是非人之物构成的「深渊教团」。\n人类内部的威胁，则是至冬国的神灵，冰之女皇的野心。\n深渊教团腐化了风神的眷属——蒙德「四风守护」中的东风之龙。\n至冬国的使团借口对抗深渊，对蒙德层层施压。\n内外交困，因而引来神的回归。风之神化身吟游诗人，与你一同行动，解救巨龙。\n然而此时的你尚未见到，在陷入深渊的巨龙瞳中，倒映出的那个人影…\n统领深渊之人。\n那位少年（少女）也曾远渡重天，与你一起跨越诸多世界。",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    "在那之后，你遇到旅伴脑积水，一起流浪了一段时间。\n你得知此世的神灵共有七位，以「尘世七执政」之名统治七国。\n你们将驻足的第一站定为诗与酒的自由城邦，蒙德，那是风神建立的国度。\n你作为异乡人踏足蒙德时，它正与其它国家一样，遭受着来自人类之外与人类内部的双重威胁。\n人类之外的威胁，是非人之物构成的「深渊教团」。\n人类内部的威胁，则是至冬国的神灵，冰之女皇的野心。\n深渊教团腐化了风神的眷属——蒙德「四风守护」中的东风之龙。\n至冬国的使团借口对抗深渊，对蒙德层层施压。\n内外交困，因而引来神的回归。风之神化身吟游诗人，与你一同行动，解救巨龙。\n然而此时的你尚未见到，在陷入深渊的巨龙瞳中，倒映出的那个人影…\n统领深渊之人。\n那位少年（少女）也曾远渡重天，与你一起跨越诸多世界。",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    "「待更新」",<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "「待更新」",<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "「待更新」",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,7 +11,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">async def check_update():<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">resp = await aiorequests.get('https://api.github.com/repos/zhulinyv/LittlePaimon/commits')<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">resp = await aiorequests.get('https://api.github.com/repos/CMHopeSunshine/LittlePaimon/commits')<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">data = resp.json()<br /></span><span class="token prefix unchanged">·</span><span class="token line">if not isinstance(data, list):<br /></span><span class="token prefix unchanged">·</span><span class="token line">    return '检查更新失败，可能是网络问题，请稍后再试'</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2023, 06:17:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Apr 2023, 07:17:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
