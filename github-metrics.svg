@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1326" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1331" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -760,6 +760,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -918,10 +919,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">d6189746</span>
-                            <span class="code">LittlePaimon/database/models/character.py</span>
+                            <span class="code">LittlePaimon/plugins/Paimon_Wiki/wiki_api.py</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -929,14 +930,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -383,8 +383,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">except IndexError:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    extra_prop = None<br /></span><span class="token prefix unchanged">·</span><span class="token line">character.weapon = Weapon(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    name=weapon_map['Name'][weapon_c['flat']['nameTextMapHash']],<br /></span><span class="token prefix deleted">-</span><span class="token line">    type=weapon_map['Type'][weapon_map['Name'][weapon_c['flat']['nameTextMapHash']]],<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    name=(weapon_name := weapon_map['Name'][str(weapon_c['flat']['nameTextMapHash'])]),<br /></span><span class="token prefix inserted">+</span><span class="token line">    type=weapon_map['Type'][weapon_name],<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    level=weapon_c['weapon']['level'],<br /></span><span class="token prefix unchanged">·</span><span class="token line">    rarity=weapon_c['flat']['rankLevel'],<br /></span><span class="token prefix unchanged">·</span><span class="token line">    promote_level=weapon_c['weapon']['promoteLevel'] if 'promoteLevel' in weapon_c['weapon'] else 0,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">'角色材料': '{proxy}https://raw.githubusercontent.com/Nwflower/genshin-atlas/master/material%20for%20role/{name}.png',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'收益曲线': '{proxy}https://raw.githubusercontent.com/CMHopeSunshine/LittlePaimonRes/main/genshin_guide/curve/{name}.jpg',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'参考面板': '{proxy}https://raw.githubusercontent.com/CMHopeSunshine/LittlePaimonRes/main/genshin_guide/panel/{name}.jpg',<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">'武器图鉴': '{proxy}https://raw.githubusercontent.com/Nwflower/genshin-atlas/master/{name}',<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">'武器图鉴': '{proxy}https://raw.githubusercontent.com/Nwflower/genshin-atlas/master{name}',<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">'圣遗物图鉴': '{proxy}https://raw.githubusercontent.com/Nwflower/genshin-atlas/master/artifact/{name}.png',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'原魔图鉴': '{proxy}https://raw.githubusercontent.com/CMHopeSunshine/GenshinWikiMap/master/results/monster_map/{name}.jpg',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'特产图鉴': '{proxy}https://raw.githubusercontent.com/Nwflower/genshin-atlas/master/specialty/{name}.png',</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 07:18:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2023, 09:16:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
