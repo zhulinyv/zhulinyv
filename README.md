@@ -32,7 +32,7 @@
 
 - Genshin Impact
 - Forza Horizon
-- Azure Lana
+- Azure Lane
 - ...
 
 ## 🎮 My **Genshin** Info
