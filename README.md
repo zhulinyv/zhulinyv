@@ -5,7 +5,7 @@
 </a>
   
 <p align="center">
-  <img width="300px" src="https://count.getloli.com/get/@zhulinyv?theme=rule34"></img>
+  <img width="300px" src="https://effective-fiesta-5549r6959vrc4qrj-3000.app.github.dev/get/@zhulinyv?theme=rule34.xxx"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhulinyv&layout=compact"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=zhulinyv"></img>
 </p>
