@@ -4,7 +4,7 @@
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
   
-<p align="center">
+<p>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhulinyv&layout=compact"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=zhulinyv"></img>
 </p>
