@@ -5,7 +5,6 @@
 </a>
   
 <p align="center">
-  <img width="300px" src="https://supreme-space-trout-j94g76g9wx4cpqr7-3000.app.github.dev/get/@zhulinyv?theme=rule34.xxx"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhulinyv&layout=compact"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=zhulinyv"></img>
 </p>
@@ -15,7 +14,7 @@
 - 👨🏻‍🎓A Chinese Student
 - 🐠Touch fish~
 - 🐤Just a Rookie
-- 🤖Developing a [NJS QQ Bot](https://github.com/zhulinyv/NJS)
+- 🤖Developing a [NovelAI script](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv)
 
 ## 📖 **Learning**
 
@@ -33,6 +32,8 @@
 - Genshin Impact
 - Forza Horizon
 - Azure Lane
+- Snowbreak: Containment Zone
+- Wuthering Waves
 - ...
 
 ## 🎮 My **Genshin** Info
