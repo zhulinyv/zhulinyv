@@ -1,12 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there!;I'm+Xytpz!)](https://git.io/typing-svg)
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66541860" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @zhulinyv" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
@@ -14,6 +6,13 @@
 <p align="center">
   <img width="300px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854"></img>
 </p>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66541860" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @zhulinyv" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 ## 🌟 I'm **Xytpz**
 - 🐍Amateur Python Programmer.
