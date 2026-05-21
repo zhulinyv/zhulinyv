@@ -5,7 +5,7 @@
 </a>
 
 <a>
-  <img width="500px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854" />
+  <img width="400px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854" />
 </a>
 
 <br><br>
