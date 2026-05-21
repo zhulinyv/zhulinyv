@@ -2,17 +2,24 @@
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
-  
+
+<br clear="right">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66541860" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=dark">
+    <img align="right" width="450" alt="Dashboard stats of @zhulinyv" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
 <p align="center">
-  <img width="300px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854"></img>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhulinyv&layout=compact"></img>
+  <img width="300px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854">
 </p>
 
 ## 🌟 I'm **Xytpz**
-- 🐍Amateur Python Programmer.
-- 🔧Working in Shandong, China.
-- 🤖Passionate about Developing [NovelAI Auto Script](https://github.com/zhulinyv/Auto-NovelAI-Refactor) related Projects.
-- ✏️Learning Python/C#/JavaScript/Java/SQL/Linux etc.
+- 🐍 Amateur Python Programmer.
+- 🔧 Working in Shandong, China.
+- 🤖 Passionate about Developing [NovelAI Auto Script](https://github.com/zhulinyv/Auto-NovelAI-Refactor) related Projects.
+- ✏️ Learning Python/C#/JavaScript/Java/SQL/Linux etc.
 
 ## 📖 **Learning**
 
