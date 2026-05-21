@@ -8,8 +8,6 @@
   <img width="400px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854" />
 </a>
 
-<br>
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66541860" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66541860&image_size=auto&color_scheme=dark">
@@ -17,7 +15,7 @@
   </picture>
 </a>
 
-<br>
+<br><br>
 
 <a>
   <img align="right" width="48%" src="./mikumiku.gif" />
