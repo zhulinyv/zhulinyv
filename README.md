@@ -8,7 +8,7 @@
   <img width="400px" src="https://count.getloli.com/@zhulinyv?name=zhulinyv&theme=asoul&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=769854" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66541860" target="_blank">
   <picture>
@@ -17,7 +17,7 @@
   </picture>
 </a>
 
-<br><br>
+<br>
 
 <a>
   <img align="right" width="48%" src="./mikumiku.gif" />
